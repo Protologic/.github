@@ -1,12 +1,3 @@
-## Hi there 👋
+Protologic is a programming/spacecombat game. To play Protologic you can write code in any language that compiles to WASM to control your space battleships, and then submit it to the @*Proto bot on Discord to join the competition!
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Check out some of the latest battles here: https://referee.cylon.xyz/protologic/player/
